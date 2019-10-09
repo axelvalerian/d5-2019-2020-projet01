@@ -1,0 +1,82 @@
+body{
+
+}
+
+
+
+
+.content_wrapper {
+  position: relative;
+  z-index: 999;
+  background-image: url(../images/line.jpgs);
+  background-repeat: repeat;
+}
+
+
+
+.type01 {
+  position: fixed;
+  top : 600px;
+  right: 200px;
+  max-width: 100px;
+
+}
+
+.type01:hover {
+  position: fixed;
+  top: 600px;
+  right: 200px;
+  max-width: 300px !important;
+}
+
+
+#type01:hover{
+    max-width: 300px;
+}
+
+
+.type02 {
+  position: fixed;
+  top : 100px;
+left: 22px;
+  max-width: 100px;
+}
+
+
+.type03 {
+  position: fixed;
+  top : 200px;
+  right: 400px;
+  max-width: 100px;
+}
+
+
+.type04 {
+  position: fixed;
+  top : 100px;
+  right: 700px;
+  max-width: 50px;
+}
+
+.type05 {
+  position: fixed;
+  top : 30px;
+  left: 400px;
+  max-width: 100px;
+}
+
+.type06 {
+  position: fixed;
+  top : 500px;
+  right: 800px;
+  max-width: 50px;
+}
+
+.type07 {
+  position: fixed;
+  top: 650px;
+  left: 100px;
+  max-width: 100px;
+
+
+}
